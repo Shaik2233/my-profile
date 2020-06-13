@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+/**********************TOP-CONTAINER*******************/
+p {
+  font-family: 'Hind Siliguri', sans-serif;
+}
+.top-container {
+  background-color: #ddfee4;
+  margin: 0;
+  padding-top: 100px;
+}
+.heading1{
+  color: #66BFBF;
+  padding-top: 50px;
+}
+.para1 {
+  color: #66BFBF;
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-top: 0;
+}
+.mountainimage {
+  padding-top: 25px;
+  height: 300px;
+  width: 450px;
+  top: 250px;
+}
+h1 {
+  font-size: 5rem; /*16px=100%=1em 90px/16px=5.625em=562.5% **/
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  margin-bottom: 40px;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 250px;
+}
+/**********************MIDDLE-CONTAINER****************/
+.middle-container {
+  background-color: #eeeeee;
+  padding: 25px 25px;
+}
+hr {
+  border-width: 5px;
+  border-style: dotted none none none;
+  border-color: #a9a9a9;
+  margin: 10% 48% auto 48%;
+}
+.myimage {
+  border-radius: 50%;
+}
+.tea{
+  margin-top: 0;
+}
+.heading2 {
+  margin-bottom: 20px;
+}
+a {
+  color: #11999E;
+}
+.webpage {
+  float: left;
+  padding-right: 30px;
+}
+.skills {
+  width: 50%;
+  margin: 100px auto 90px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-me {
+  margin-top: 100px;
+}
+/**********************BOTTOM-CONTAINER****************/
+.bottom-container {
+  background-color: #196b69;
+  padding: 25px 25px;
+}
+.mailto {
+  text-decoration: none;
+  border: solid white;
+  border-radius: 50%;
+  background-color: #0CD8F9;
+  padding: 10px;
+}
+.mailto:hover {
+  border: solid black;
+  background-color: #3792A1;
+  color: white;
+}
